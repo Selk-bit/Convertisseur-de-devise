@@ -1,0 +1,2 @@
+rootProject.name = "El Kellouti Salim - Convertisseur de devises"
+include ':app'
