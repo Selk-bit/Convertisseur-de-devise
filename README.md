@@ -31,3 +31,5 @@ Users can submit the request by pressing a button, thus initiating the conversio
 ## Conclusion
 
 The Currency Converter Application provides a simple and effective user experience for currency conversion by connecting to the API "https://api.freecurrencyapi.com". The screenshots (not included here) demonstrate the ease of use of the application and the clarity of the results obtained after conversion. This project highlights the ability to create functional and informative applications to meet user needs while accurately analyzing the parameters of the used API.
+
+For more, visit my LinkedIn profile: [Salim Elkellouti](https://www.linkedin.com/in/salim-elkellouti/).
