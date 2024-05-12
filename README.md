@@ -22,10 +22,5 @@ The main page of the application offers input fields to specify:
 
 Users can submit the request by pressing a button, thus initiating the conversion process.
 
-### API Parameters Analysis
-
-- **API key**: `sgiPfh4j3aXFR3l2CnjWqdKQzxpqGn9pX5b3CUsz` for authentication.
-- **Base Currency**: Sets the base currency as the US Dollar (USD).
-- **Currencies**: Specifies the currencies to include in the response, with an example of the AUD (Australian Dollar).
 
 For more, visit my LinkedIn profile: [Salim Elkellouti](https://www.linkedin.com/in/salim-elkellouti/)
